@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductDetail</string>
+    <string name="product_image_transition">productImageTransition</string>
+    <string name="product_view_transition">ProductViewTransition</string>
+    <string name="product_brand_transition">productBrandTransition</string>
+    <string name="product_name_transition">productNameTransition</string>
+</resources>

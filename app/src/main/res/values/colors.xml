@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#EE87D7</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorActive">#F35B96</color>
+    <color name="colorInactive">#E0E0E0</color>
+
+    <color name="colorGradientStart">#EE87D7</color>
+    <color name="colorGradientCenter">#F174AE</color>
+    <color name="colorGradientEnd">#F46186</color>
+    <color name="colorGoogle">#F46186</color>
+    <color name="colorFacebook">#F46186</color>
+    <color name="colorTwitter">#F46186</color>
+    <color name="colorGray">#5A5A5A</color>
+
+    <color name="colorChoice1">#2FD3FF</color>
+    <color name="colorChoice2">#000000</color>
+    <color name="colorChoice3">#A4FF53</color>
+
+    <color name="bottomNavigationGradientStart">#EE87D7</color>
+    <color name="bottomNavigationGradientCenter">#F174AE</color>
+    <color name="bottomNavigationGradientEnd">#F46186</color>
+
+
+    <color name="colorSizeSelected">#F46186</color>
+    <color name="colorSizeSelectedText">#FFFFFF</color>
+    <color name="colorSizeUnSelected">#FFFFFF</color>
+    <color name="colorSizeUnSelectedText">#000000</color>
+</resources>
